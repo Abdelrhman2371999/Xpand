@@ -33,9 +33,9 @@ This project demonstrates a comprehensive enterprise integration scenario where 
 │                 │ (DHCP)      │                       │
 │                 └─────────────┘                       │
 └───────────────────────────────────────────────────────┘
-![alt text](image-1.png)
-```
 
+```
+![alt text](image-1.png) 
 ### System Specifications
 
 #### Windows Server
