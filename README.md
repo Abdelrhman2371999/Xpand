@@ -35,7 +35,8 @@ This project demonstrates a comprehensive enterprise integration scenario where 
 └───────────────────────────────────────────────────────┘
 
 ```
-![alt text](image-1.png) 
+<img width="714" height="344" alt="image" src="https://github.com/user-attachments/assets/cbbd3d5b-2c49-47e7-99e4-dbd91e7df76a" />
+
 ### System Specifications
 
 #### Windows Server
